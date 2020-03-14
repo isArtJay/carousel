@@ -35,4 +35,3 @@ HTML代码
         <a href="javascript:;" id="next" class="arrow">&gt;</a>
     </div>
 ```
-<a href="https://www.artjay.me/Demo/carousel" target="_blank">点击这里查看Demo演示</a>
